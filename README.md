@@ -1,4 +1,4 @@
-# Cozy Lofi To-Do List App
+# Vibe Code To-Do List App
 
 A minimalist to-do list app built with Next.js (App Router), Tailwind CSS, and DaisyUI. Features a cozy, lofi-inspired UI and logic to save/remove tasks in localStorage, with clear potential for future database integration.
 
